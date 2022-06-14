@@ -1,0 +1,4 @@
+This is an "ESSENTIAL APP" which contains the basic and must needed apps : 
+1 - "CALCULATOR APP"- By the help of this app we can do the calculations 
+2 - "TIMER APP"     - This app will provide a stop watch
+3 - "WEATHER APP" -  By help of this app we will get weather details
